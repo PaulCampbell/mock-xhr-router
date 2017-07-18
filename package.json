@@ -21,7 +21,7 @@
   "dependencies": {
     "debug": "2.2.0",
     "fake-xml-http-request": "1.4.0",
-    "faux-jax": "5.0.1"
+    "faux-jax": "5.0.6"
   },
   "devDependencies": {
     "browserify": "13.1.0",
